@@ -2,7 +2,7 @@
 
 cd ~
 
-sudo apt-get install -y gcc build-essential cmake libusb-1.0 libusb-1.0-0-dev libgtk-3-dev pandoc
+sudo apt-get install -y gcc build-essential cmake libusb-1.0 libusb-1.0-0-dev libgtk-3-dev pandoc rpm
 
 cd Documents
 
