@@ -20,3 +20,4 @@ sudo make package
 sudo cp -a config/udev/rules.d/* /etc/udev/rules.d/
 sudo udevadm control --reload-rules
 sudo udevadm trigger
+sudo ldconfig
